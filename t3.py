@@ -14,6 +14,8 @@ class ExperienceLevel(BaseModel):
     JOB: FieldExpertise
     EXPERIENCE: float = Field(description = "How much experience does the person have in the field")
 
+
+
 client = instructor.from_openai(OpenAI(
     base_url = 'http://localhost:11434/v1',
     api_key='ollama', # required, but unused

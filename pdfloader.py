@@ -1,3 +1,10 @@
-from resume_parser import resumeparse
+from pypdf import PdfReader 
 
-data = resumeparse.read_file('/Users/sulaiman/Downloads/samplePDF.pdf')
+reader = PdfReader('/Users/sulaiman/Downloads/samplePDF.pdf') 
+data = ""
+
+for page_no in range(len(reader.pages)):
+    page = reader.pages[page_no] 
+    data += page.extract_text()
+
+print(data)
