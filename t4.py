@@ -29,7 +29,6 @@ class Resume(BaseModel):
     NAME: str
     EMAIL_ID: str
     PHONE_NUMBER: str
-    ABOUT_ME: str
     SKILLS: List[Skills]
     PAST_JOBS: List[str] | None
 
@@ -48,15 +47,15 @@ few_shot_prompts = [
     },
     {
         "role": "assistant",
-        "content": '{"NAME": "John Doe", "EMAIL_ID": "john.doe@example.com", "PHONE_NUMBER": "123-456-7890", "ABOUT_ME": "John is a seasoned Software Developer with 5 years of experience. Skilled in Python, JavaScript, and SQL.", "SKILLS": [{"PROFESSION": "software_developer", "experience": 5}], "PAST_JOBS": ["Software Engineer at TechCorp", "Junior Developer at WebWorks"]}'
+        "content": '{"NAME": "John Doe", "EMAIL_ID": "john.doe@example.com", "PHONE_NUMBER": "123-456-7890", "SKILLS": [{"PROFESSION": "software_developer", "experience": 5}], "PAST_JOBS": ["Software Engineer at TechCorp", "Junior Developer at WebWorks"]}'
     },
     {
         "role": "user",
-        "content": "Jane Smith\nContact: jane.smith@gmail.com | 987-654-3210\n\nJane is a Data Scientist with 3 years of experience in data analysis and machine learning.\n\nPrevious Jobs:\n- Data Scientist at DataInsights\n- Intern at AnalyticsPro."
+        "content": "Jane Smith\nContact: jane.smith@gmail.com | 987-654-3210\nSkilled in Python, C++, Java\n- Data Scientist at DataInsights\n Software Engineer at Microsoft 2010-2013 - Intern at AnalyticsPro."
     },
     {
         "role": "assistant",
-        "content": '{"NAME": "Jane Smith", "EMAIL_ID": "jane.smith@gmail.com", "PHONE_NUMBER": "987-654-3210", "ABOUT_ME": "Jane is a Data Scientist with 3 years of experience in data analysis and machine learning.", "SKILLS": [{"PROFESSION": "data_scientist", "experience": 3}], "PAST_JOBS": ["Data Scientist at DataInsights", "Intern at AnalyticsPro"]}'
+        "content": '{"NAME": "Jane Smith", "EMAIL_ID": "jane.smith@gmail.com", "PHONE_NUMBER": "987-654-3210", "SKILLS": [{"PROFESSION": "data_scientist", "experience": 5.0}, {"PROFESSION": "software_developer": "experience": 3.0}], "PAST_JOBS": ["Data Scientist at DataInsights", "Intern at AnalyticsPro"]}'
     },
     {
         "role": "user",
