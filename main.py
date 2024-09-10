@@ -1,7 +1,6 @@
 from openai import OpenAI
-from pydantic import BaseModel
-from typing import List
 from pydantic import BaseModel, Field
+from typing import List
 from enum import Enum
 import instructor
 
@@ -36,6 +35,17 @@ client = instructor.from_openai(OpenAI(
     mode=instructor.Mode.JSON
 )
 
+sample_input = """Alice Johnson
+Email: alice.johnson@company.com
+Phone: 555-123-4567
+
+Experienced Data Engineer with over 4 years in the industry. Expertise in ETL processes, data warehousing, and cloud platforms like AWS.
+
+Work Experience:
+- Data Engineer at BigData Inc. 2012-2014
+- ETL Developer at DataWorks. 2015-2020"""
+
+
 few_shot_prompts = [ 
     {
         "role": "system", 
@@ -59,15 +69,7 @@ few_shot_prompts = [
     },
     {
         "role": "user",
-        "content": """Alice Johnson
-Email: alice.johnson@company.com
-Phone: 555-123-4567
-
-Experienced Data Engineer with over 4 years in the industry. Expertise in ETL processes, data warehousing, and cloud platforms like AWS.
-
-Work Experience:
-- Data Engineer at BigData Inc. 2012-2014
-- ETL Developer at DataWorks. 2015-2020"""
+        "content": sample_input
     }
 ]
 
