@@ -1,0 +1,174 @@
+
+    {
+    "personal_information": {
+      "first_name": "Rajesh",
+      "last_name": "Joy",
+      "full_name": "Rajesh Joy",
+      "date_of_birth": "1976-05-30",
+      "gender": "None",
+      "nationality": "Indian",
+      "phone_number": "00966 502827500",
+      "email_address": "rajeshjoyp@gmail.com",
+      "address": "None",
+      "city": "Riyadh",
+      "state": "None",
+      "country": "Saudi Arabia",
+      "linkedin_profile": "None",
+      "website_url": "None",
+      "photo": "None"
+    },
+    "objective_summary": {
+      "objective": "None",
+      "career_summary": "13 years of experience in the field of Information Technology. Last 7 years in IT management. Experience in formulating IT policies, controlling IT purchases & projects, IT auditing and documentation, evaluating and selecting right technologies and partners, managing security and access-control.",
+      "personal_statement": "None"
+    },
+    "professional_experience": {
+      "work_experience": [
+        {
+          "company_name": "RGF",
+          "job_title": "Corporate IT In-Charge",
+          "start_date": "2003-06",
+          "end_date": "None",
+          "job_location": "Riyadh, Saudi Arabia",
+          "job_description": [
+            "Develop and enforce necessary IT policies.",
+            "Evaluate and select right technologies.",
+            "Secure company network and data.",
+            "Manage & Support Windows 2003 Servers.",
+            "Train junior staff on systems to facilitate support infrastructure.",
+            "Support all in-house desktop computers of all 10 branches."
+          ],
+          "achievements": [
+            "Evaluated, selected, and implemented an ERP system to streamline company operations.",
+            "Developed a centralized datacenter at corporate office.",
+            "Implemented WAN to connect all branches to the datacenter.",
+            "Installed and configured Windows 2003 domain network.",
+            "Restructured IT purchase procedure and formulated a policy."
+          ]
+        },
+        {
+          "company_name": "RGF",
+          "job_title": "Systems Analyst",
+          "start_date": "2001-03",
+          "end_date": "2003-06",
+          "job_location": "Khobar, Saudi Arabia",
+          "job_description": [
+            "Responsible for development and maintenance of projects using Visual Basic, MS SQL Server, Oracle, ASP and Crystal Reports.",
+            "Developed various reports of varying complexity.",
+            "Optimized queries and made necessary Stored Procedures to run Crystal Reports faster.",
+            "Installed and maintained Windows 2000/XP for a production environment."
+          ],
+          "achievements": []
+        },
+        {
+          "company_name": "Solid Software Solutions",
+          "job_title": "Systems Analyst / Programmer",
+          "start_date": "1999-06",
+          "end_date": "2000-12",
+          "job_location": "Anagamaly, India",
+          "job_description": [
+            "Provided technical expertise to design, code, and test application systems.",
+            "Front-end development of GUI portion of the application and Oracle database creation and maintenance.",
+            "Involved in analysis / development of business rules implementation using Stored Procedures and Triggers.",
+            "Created complex reporting applications using Crystal Reports."
+          ],
+          "achievements": []
+        },
+        {
+          "company_name": "Petron Engineering Construction Ltd",
+          "job_title": "Programmer / Systems Coordinator",
+          "start_date": "1997-05",
+          "end_date": "1999-06",
+          "job_location": "Bombay, India",
+          "job_description": [
+            "Created a reporting application using VB, Oracle and Crystal Report to provide user up-to-date information about maintenance activities, manpower activities, equipment status and inventory.",
+            "Responsibilities include gathering user requirements, analyzing and developing the solution."
+          ],
+          "achievements": []
+        }
+      ]
+    },
+    "education": {
+      "education": [
+        {
+          "degree": "MBA in IT Management",
+          "institution": "Sikkim Manipal University",
+          "start_date": "None",
+          "end_date": "None",
+          "major": "IT Management",
+          "gpa": "None",
+          "location": "India"
+        },
+        {
+          "degree": "Diploma in Computer Applications",
+          "institution": "Govt. Polytechnic Kannur",
+          "start_date": "None",
+          "end_date": "None",
+          "major": "None",
+          "gpa": "None",
+          "location": "India"
+        },
+        {
+          "degree": "Diploma in Computer Applications (Java 2.0 and VB6.0)",
+          "institution": "None",
+          "start_date": "None",
+          "end_date": "None",
+          "major": "None",
+          "gpa": "None",
+          "location": "None"
+        }
+      ]
+    },
+    "skills": {
+      "technical_skills": [
+        "Design and implementation of wide area networks",
+        "Security Design and Access Control",
+        "Implementing and Supporting Microsoft Terminal Server environments",
+        "Windows Server 2000/2003, Active Directory and GPO",
+        "Managing co-location migrations",
+        "Network and PC troubleshooting",
+        "Server optimization and performance tuning",
+        "Skilled as a trainer",
+        "Experience in ORACLE, Visual Basic, MS SQL Server",
+        "Crystal Reports 9.0, Oracle Reports 6i",
+        "McAfee Total Protection for Endpoint, ePO administration"
+      ],
+      "soft_skills": [
+        "Good team player",
+        "Excellent communication",
+        "Problem solving",
+        "Interpersonal skills"
+      ],
+      "languages": ["None"]
+    },
+    "certifications_and_courses": {
+      "certifications": [],
+      "courses": []
+    },
+    "projects": {
+      "projects": []
+    },
+    "awards_and_achievements": {
+      "awards_and_achievements": []
+    },
+    "publications_and_research": {
+      "publications": [],
+      "research": []
+    },
+    "volunteering": {
+      "volunteer_experience": []
+    },
+    "hobbies_and_interests": {
+      "hobbies": ["None"],
+      "interests": ["None"]
+    },
+    "references": {
+      "references": []
+    },
+    "additional_information": {
+      "driver_license": "None",
+      "availability": "None",
+      "willingness_to_relocate": "None",
+      "expected_salary": "None"
+    }
+  }

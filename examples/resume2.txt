@@ -1,0 +1,186 @@
+PRAKASH DHARMANI
+ 
+ 
+Communication Address:
+301A, Jimmy Park I CHS, Plot 182D, Sector 17,  
+Nerul, Navi Mumbai, Maharashtra.
+India   Pin: 400706
+Ph: (Res.) +91 22 32504708, (Mobile) +91 9819731191
+Email : prakash_dharmani@yahoo.com
+ 
+ 
+BRIEF OVERVIEW
+
+A Chemical engineer with Management background (done Executive MBA) and a IT Professional having over 18 years of  Cross Functional (Engineering, Manufacturing, Project Execution, System Development and Implementation) & Cross Industry (Petrochemical, Petroleum, Power, Steel & 3PL Logistics)  back ground in a diversified Reliance & Essar group.
+ 
+Industry Exposure	Petrochemicals, Refinery , Power, Steel, Logistics and Pharmaceutical
+Core Areas of Expertise	IT Dept Set Up, Program Management, New Start Ups, Business Process (Definition, Mapping, & Re-engineering/Migration) with exposure to world renowned PwC methodology, SAP Implementation & Logistics Management Software Development & Implementation.
+Strength includes good Analytical, Presentation and Leadership skills.
+Jobs Handled:	     As CIO of startup Engineering Company played a strategic role in technology selection, SLA definition, IT dept setup etc.
+     Played Change agent role in implementation of mission critical business applications
+     Innovated processes to gain competitive advantage.
+     Played a key role in the implementation of LES & FICO modules of SAP for Logistics division, development of Transport Management Software & Customer Complaints System.
+     Requirement Analysis & Definition (Business Analysis, & Feasibility Study, Converting Business / System requirements to Design, Estimation & Sizing)
+     Reviews (Functional / System / Test Review)
+     Project Delivery Management (Project Planning & Scoping, Process Definition & Engineering, Risk Management, proposal / Vetting of Proposals, Tools Evaluation, P&L Responsibility)
+     Customer Management (Customer Interface )
+     Technology Management (Scanning, acquiring and selecting relevant technologies )
+     ISO Implementation
+     Petrochemical Industry Operations & Monitoring.
+   
+ 
+PROFESSIONAL EXPERIENCE
+
+Essar is multibillion group having interest in Oil Exploration, Refinancing, Steel, Power, Shipping, Projects and Telecom Sector.
+ 
+Essar Group: Essar Engineering Services Limited  (EESL): Dec ’06 - Till Date
+ 
+Designation: CIO
+During past three & half years played a key role in seamlessly integrating the key components of business i.e. technology, processes, and people. Major jobs handled are as follows:
+ 
+￼
+     IT Department Set Up
+o   Complete department was set up in short period of six months.
+o   Involved in roles, KRA & SLA definition for the IT department
+o   Ensured proper Coaching and Training for employee skill set up gradation.
+ 
+￼
+     Technology Selection, Vendor Relationship and Trend Analysis – Competitive Advantage
+o   Played a key role in Technology selection. In spite of challenges like budgetary constraints, change management resistance, ensured ‘Best in class’ systems were selected and deployed for EPC business for Oil & Gas, Power and Steel Vertical.
+o   Was instrumental in selection of Smart Plant Marian, Aspen  and Documentum application which today have become backbone of EESL.
+o   Continuously evaluate new solutions to keep abreast with new technologies.
+ 
+ 
+￼
+     Budgets - Spend Management
+o   Creation of Budget, Monitoring and Control for IT spend.
+o   Getting Budgetary approvals from Steering Committee
+o   Managing Spend of 5 – 6 mn USD effectively.
+ 
+￼
+     Solution Development and Implementation– Catalyst for Change Management
+o   Coordinated with clients, internal teams for requirement gathering, mapping business process and developing systems for improving business efficiencies.
+o   Essar become first company in India to implement Smart Plant where in complete lifecycle from Engineering specification to material at site was tracked with very tight integration with SAP.
+o   Implemented of FICO, MM, SD and PS module of SAP 6.0. Analytics and Business Intelligence implementation in progress.
+o   Implementation of SAP DMS/Documentum for Document Management and Control for Refinery expansion, Power and Steel project. More than 0.2 mn documents uploaded.
+o   Installation and Configuration of collaborative engineering applications comprising of PDS, Smart Plant  Suite for Refinery Expansion Project
+o   Provided domain knowledge for developing  various customized applications like Timesheets , Deliverable Control System etc for better business control
+o   Integration of various legacy and SAP for seamless data transfer
+o   Integrated various engineering applications resulting in saving of man hours e.g. PDS – Caesar, PDS – Marian – SAP, Documentum – SAP.
+ 
+￼
+     Business Continuity & Infrastructure
+o   Hardware Sizing for critical applications
+o   Preparing and Implementation of  Disaster Recovery and Business Continuity Plan – in progress
+o   Implemented back up restore system.
+o   IP Camera Surveillance implementation
+o   Instrumental in documentation of  ISO 9001:2008 procedures & audits
+o   Internet and Intranet Portal & Branding initiatives
+ 
+￼
+     Essar Group Initiatives
+o   Evaluated and finalized Road Map for Kenya Petroleum Refinery Ltd (KPRL). Provided key inputs for implementation of IBM Maximo application for Plant Maintenance and Aspen Suite at Kenya.
+o   Developed Integrated Projects Execution and Tracking System (PETS) which is used for EPC progress measurement, monitoring and tracking of complete life cycle of equipment and materials ordered for a project.
+o   Managing Microsoft relationship for complete Essar Group
+ 
+ 
+￼
+     Achievements
+ 
+o   Implementation of Smart Plant Materials was one of fastest done in world. This was also acknowledged by M/s Intergraph during their customer meet in Beijing ’09.  SPM implementation resulted in savings to the tune of 2 MN USD. Implementation of SPM was awarded ‘EDGE Award’ by information week.
+o   Implementation of Documentation was selected and published in CIO’s Handbook Best Case Studies 2010.
+ 
+ 
+Reliance Group of Companies: April ’93 – Nov ‘06
+ 
+Reliance Industries Ltd a petrochemical giant is a part of Reliance Group Company having presence in field of Oil & Gas, Refinery, Petrochemical, Textiles and Logistics.
+ 
+Designation: Sr  Manager IS&T, ( Apr ‘04 – Nov ’06)
+￼
+     Worked on $ 6 Billion  Reliance Jamnagar Refinery Project which involved
+o   Managing a team size of 50 direct and indirect personnel for complete IS&T set up.
+o   Setting up engineering center at Mumbai in co-ordination with principal consultant M/s. Bechtel. The activities involve setting up of LAN, CAN, WAN across the globe ensuring data security.
+o   Setting up complete Infrastructure for 1000 people engineering personnel.
+o   Procurement of EPC Software worth 15 MN USD and deployment of same.
+o   Deployment & Management of various engineering software’s, like PDS, Intools, Ceaser, Aspen, ETAP, etc
+o   Implementation of Bechtel Procurement System and SAP for Engineering Project Control and Execution.
+o   Preparing and Implementing Disaster Recovery and Business Continuity Plan for Mumbai site.
+o   Liaison with various engineering contractors like Bechtel, UOP, etc for configuring their software’s in India for ensuring seamless operations across various engineering centers located in several countries.
+ 
+￼
+     Implemented LES SAP Module in Reliance Logistics Limited.
+￼
+     Implemented Freight Bill Processing module in SAP. Freight worth Rs 850 Cr/annum due to Inbound and Outbound Goods Movement of Reliance Group is processed in this module.
+￼
+     Provided training to end users on SAP LES & Warehouse Module.
+￼
+     As a certified LRQA Lead Auditor, Implemented ISO 9001:2000 for RLL IT Division.
+ 
+ 
+Designation: Manager IT, ( Jul ’01 to Mar ‘04)
+Initiated development and implementation of IT Systems from grass root stage for Reliance Logistics Limited
+￼
+     Built interfaces between SAP & Legacy systems, SAP and Banks for seamless integration of systems and to enable e-transfer of data.
+￼
+     Coordinated and gave functional inputs for development of online Transport Management Software (TMS). TMS is a web-based system, developed on IBM’s Web sphere application server using JDK 2.0 & EJB 1.0 technology & DB2 as database. TMS has a facility of On line Consignment & Vehicle Tracking.
+￼
+     Coordinated for developing of Fleet Allocation and Monitoring System, It was developed on VB + SQL Platform,
+￼
+     Computerized manual process of capturing & resolution of Customer Complaints by developing Lotus based Logistics feedback System (LFS).  This resulted in faster resolutions of complaints & in turn increased customer satisfaction.
+￼
+     Conceptualized & implemented Web based system with Oracle as database for Online Tendering of Road Transportation of Reliance Group Companies resulting in savings to tune of Rs 10 Cr. Approx. tender value was Rs 400 Cr. Co-coordinated with Free Markets for Reverse Online Bidding.
+￼
+     Facilitated in creating MIS system for monitoring of KPI’s.
+ 
+Achievements:
+￼
+     Implementation of LES module of SAP for Logistics Division of RIL.
+￼
+     Development and Implementation Freight Processing Module in SAP. Freight worth Rs 900 Cr /Annum processed through it.
+￼
+     Development & Implementation of Web based Transport Management Software.
+￼
+     ISO Certification of Logistics Division by LRQA
+ 
+ 
+Designation: Dy Manager, RIL Hazira / Jamangar ( Jul ’97 to Jun ‘01)
+￼
+     Collaborated with PwC Coopers (USA) for reviewing business process of RIL Jamnagar Refinery in field of.
+￼
+     Economic Planning & Scheduling
+￼
+     Crude Procurement
+￼
+     Hands on experience in execution of three engineering projects from Conception to Commissioning.
+￼
+     Involved in Process design, detailed engineering, project costing & evaluation, project monitoring, NPV & IRR calculations, pre commissioning /commissioning activities, supervising erection of equipments & coordinating with construction team/companies.
+Achievements:
+￼
+     Converted VCM Furnace Fuel from Naphtha to Fuel Gas resulting in accrued additional revenues of Rs 6 Cr / Annum.
+￼
+     Ensured timely execution of projects as Project Manager for Petrochemical Division of Reliance.
+ 
+Designation: GET /Asst  Manager, RIL Hazira (April 93 to Jun ‘96)
+￼
+     Ensure smooth Operation, Supervised Quality Control, Product Accounting, Conducted Hazop Studies, authored ISO Procedure manuals & undertook Training Programs.
+￼
+     Authored Level 3 & 4 ISO 9002 Manuals for VCM plants.
+Achievements:
+￼
+     Key member of Debottlenecking team of VCM plant for enhancing capacity from 160 KTA to 260 KTA which involved Pre Commissioning /Commissioning activities
+ 
+Lupin Laboratories, Ankleshwar (Oct ‘92 to Mar ‘93) Designation: GET, 
+Worked as a operation engineer at Lupin Laboratories, a pharmaceutical company manufacturing various Bulk drug products.
+         
+ 
+EDUCATIONAL QUALIFICATIONS
+
+Course / Certifications	University/Inst.	Year	Remarks
+Advanced Executive Management Program (Mar – Sept ‘05)	IIM, Bangalore, India	2005	
+Lead Auditor & ISO Implementation Course	LRQA, Mumbai, India	2004	
+Principles of Project Management	IBM,  Mumbai	2003	
+Management Program for Technologist (18 Weeks)	IIM, Bangalore, India	1998	Executive MBA
+Diploma in Financial Management	IGNOU, New Delhi, India	1995	First Class
+Bachelor of Chemical Engineering	University of Pune, India	1992	73% , 2nd Rank in College
+Vocational Training	IPCL, Baroda, India	1992	
+ 

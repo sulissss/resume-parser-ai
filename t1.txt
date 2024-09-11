@@ -1,0 +1,157 @@
+{
+“personal_information”: {
+"first_name”: “Rajesh”,
+"last_name”: “Joy”,
+“full_name”: “Rajesh Joy”,
+“date_of_birth”: “30/05/1976”,
+"gender”: “Male”,
+“nationality”: “Indian”,
+“phone_number”: “00966 502827500”,
+“email_address”: “rajeshjoyp@gmail.com”,
+"address": “Riyadh, Saudi Arabia”,
+"city": “Riyadh”,
+"state": “Riyadh”,
+"country": “Saudi Arabia”
+},
+“objective_summary”: “None”,
+“professional_experience”: [
+{
+“company_name”: “RGF”,
+“job_title”: “Corporate IT In-Charge”,
+“start_date”: “June 2003”,
+“end_date”: “present”,
+“job_location”: “Riyadh, Saudi Arabia”,
+“job_description”: [
+“Structure and manage an IT system.”,
+“Develop and enforce necessary IT policies.”,
+“Evaluate and select right technologies.”,
+“Secure company network and data.”,
+“Manage & Support Windows 2003 Servers.”,
+“Manage and optimize user privileges.”,
+“On-call 24 hours to address urgent IT issues.”,
+“Train junior staff on systems.”,
+“Manage several projects and helpdesk-related tasks.”,
+“Support in-house desktop computers for 10 branches.”,
+“Assist in testing and implementation of new hardware and software.”,
+“User training and documentation.”
+],
+“achievements”: [
+“Evaluated, selected, and implemented ERP system.”,
+“Developed centralized datacenter for data gathering.”,
+“Implemented WAN to connect branches.”,
+“Designed scalable IP address scheme.”,
+“Installed and configured Windows 2003 domain network.”,
+“Installed and configured McAfee ePolicy Orchestrator.”,
+“Disaster Recovery planning.”,
+“Established remote troubleshooting for all systems.”,
+“Set up Microsoft Terminal Services.”,
+“Restructured IT purchase procedures.”
+]
+},
+{
+“company”: “RGF”,
+“location”: “Khobar, Saudi Arabia”,
+“role”: “Systems Analyst”,
+“start_date”: “March 2001”,
+“end_date”: “June 2003”,
+“responsibilities”: [
+“Development and maintenance of projects using Visual Basic, MS SQL Server, Oracle, ASP, and Crystal Reports.”,
+“Developed GUIs for Pre-marketing, Post-marketing, Inventory Control, and other modules.”,
+“Created complex reports using Crystal Reports.”,
+“Optimized queries and created stored procedures.”,
+“Installed and maintained Windows 2000/XP.”,
+“Converted desktop MS Access applications into intranet applications.”
+],
+“achievements”: []
+},
+{
+“company”: “Solid Software Solutions”,
+“location”: “Anagamaly, India”,
+“role”: “Systems Analyst / Programmer”,
+“start_date”: “June 1999”,
+“end_date”: “December 2000”,
+“responsibilities”: [
+“Design, code, and test applications systems.”,
+“Front-end development of GUI applications.”,
+“Oracle database creation and maintenance.”,
+“Development of business rules implementation using stored procedures and triggers.”,
+“Created complex reporting applications using Crystal Reports.”
+],
+“achievements”: []
+},
+{
+“company”: “Petron Engineering Construction Ltd”,
+“location”: “Bombay, India”,
+“role”: “Programmer / Systems Coordinator”,
+“start_date”: “May 1997”,
+“end_date”: “June 1999”,
+“responsibilities”: [
+“Created reporting applications using VB, Oracle, and Crystal Report.”,
+“Gathering user requirements and developing solutions.”
+],
+“achievements”: []
+}
+],
+“education”: [
+{
+“degree”: “MBA in IT Management”,
+“institution”: “Sikkim Manipal University, India”,
+“grade”: “A”
+},
+{
+“degree”: “Three Year Diploma”,
+“institution”: “Govt. Polytechnic Kannur, India”,
+“grade”: “None”
+},
+{
+“degree”: “Diploma in Computer Applications (Java2.0 and VB6.0)”,
+“institution”: “None”,
+“grade”: “None”
+}
+],
+“skills”: {
+“technical”: [
+“Design and implementation of wide area networks”,
+“Security design and access control”,
+“Implementing and supporting Microsoft Terminal Server environments”,
+“Network architecture design and implementation”,
+“Managing projects and helpdesks”,
+“Windows Server 2000/2003, Active Directory, and GPO”,
+“Proxy Servers – ISA Server”,
+“Managing co-location migrations”,
+“Centralizing IT/migrating to centralized environment”,
+“Network and PC troubleshooting”,
+“Server optimization and performance tuning”,
+“Desktop imaging/designing standard desktop”,
+“Migrating old networks to current standards”,
+“Supporting PC applications/application testing”,
+“Skilled as a trainer”,
+“Technical writing and documentation”,
+“Experience in ORACLE, Visual Basic, MS SQL Server”,
+“Reporting tools - Crystal Report 9.0, Oracle Reports 6i”,
+“Antivirus – McAfee Total Protection for Endpoint, ePO administration”
+]
+},
+“languages”: [
+“None”
+],
+“certifications”: [
+“None”
+],
+“publications”: [
+“None”
+],
+“projects”: [
+“None”
+],
+“awards”: [
+“None”
+],
+“volunteering”: [
+“None”
+],
+“hobbies”: [
+“None”
+],
+“references”: “Available upon request”
+}

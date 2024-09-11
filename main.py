@@ -1,6 +1,6 @@
 from openai import OpenAI
 from pydantic import BaseModel, Field
-from typing import List
+from typing import List, Optional
 from enum import Enum
 import instructor
 
@@ -23,7 +23,7 @@ class JobExperience(BaseModel):
 class Resume(BaseModel):
     NAME: str
     EMAIL_ID: str
-    PHONE_NUMBER: str
+    PHONE_NUMBER: Optional[List[str]]
     JOB_EXPERIENCE: List[JobExperience]
     SKILLS: List[str]
 

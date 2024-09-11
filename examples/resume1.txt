@@ -1,0 +1,146 @@
+CURRICULAM VITAE
+ 
+ 
+Rajesh Joy
+Corporate IT In-Charge
+Riyadh, Saudi Arabia
+Ph: 00966 502827500
+rajeshjoyp@gmail.com
+ 
+ 
+
+Professional Overview:
+ 
+·  13 years of experience in the field of Information Technology.
+ 
+·  Last 7 years in IT management.
+ 
+·  Experience in formulating IT policies, controlling IT purchases & projects, IT auditing and documentation, evaluating and selecting right technologies and partners, managing security and access-control.
+ 
+·  Designed and implemented the network system at the present company.
+ 
+·  Experience in administering Windows 2003 domain architecture.
+ 
+·  Experience in handling different technologies and applications like:  inter-branch connectivity using VPN, Windows 2003 network, Active Directory & GPO, HP ProLiant G5 servers, CISCO routers and ASA, application sharing using Windows Terminal Services, ISA Server, McAfee enterprise solutions, ORACLE database administration etc.
+ 
+·   Over 6 years experience in analysis, designing, development, production and maintenance of Client/Server and Enterprise Business Applications.
+ 
+·  Extensive knowledge and expertise in developing application using Microsoft Visual Basic.
+ 
+·  Experience in Microsoft Technology with sound knowledge of Database Design / T-SQL Scripts in MS SQL Server 7/2000, Database objects creation, Logins and Role Permissions for security model and Data Migration using DTS.
+ 
+·  Have excellent knowledge of developing reports using Crystal Reports in association with Visual Basic.
+ 
+·  Experience in full Life Cycle Development including Analysis, Design, Development and Testing. Expert analytical skills and programming experience.
+ 
+·  Good team player with excellent communication, problem solving, inter-personal skills and consistently demonstrated the ability to achieve project deadlines.
+ 
+Technical Expertise:
+ 
+·      Design and implementation of wide area networks.
+·      Security Design and Access Control.
+·      Implementing and Supporting Microsoft Terminal Server environments.
+·      Network architecture design and implementation.
+·      Managing projects and helpdesks.
+·      Windows Server 2000/2003, Active Directory and GPO.
+·      Proxy Servers – ISA Server
+·      Managing co-location migrations (Off site datacenter).
+·      Centralizing IT / migrating to centralized environment.
+·      Network and PC troubleshooting.
+·      Server optimization and performance tuning.
+·      Desktop imaging / Designing and implementing standard desktop.
+·      Migrating old networks to current standards and technologies.
+·      Supporting PC applications / application testing.
+·      Skilled as a trainer (Small and large groups). 
+·      Technical writing and documentation.
+·      Experience in ORACLE, Visual Basic, MS SQL Server etc.
+·      Reporting tolls  - Crystal Report 9.0, Oracle Reports 6i
+·      Antivirus – McAfee Total Protection for End Point, ePO administration
+ 
+ 
+Professional Experience:
+      
+      RGF, Riyadh, Saudi Arabia     
+      Corporate IT In-Charge – June 2003 to present
+ 
+I got promoted as Corporate IT in-charge and been assigned to structure and manage an IT system.
+ 
+Major responsibilities:
+·      Accompany the company during the growth phase with proper support of IT infrastructure.
+·      Develop and enforce necessary IT policies.
+·      Evaluate and select right technologies.
+·      Secure company network and data.
+·      Manage & Support Windows 2003 Servers.
+·      Manage and optimize user privileges.
+·      Responsible for being on call 24 hours to address urgent IT issues.
+·      Train junior staff on systems to facilitate support infrastructure. 
+·      Manage several projects - Helpdesk related and process improvement.
+·      Support all in house desktop computers of all 10 branches.
+·      Assist in the testing and implementation of new releases of both hardware and software.
+·      Performed user training and documentation.
+The following are major achievements:
+·      Evaluated, selected and implemented an ERP system to streamline company operations and to help the higher management in better and fast decision making.
+·      Developed a centralized datacenter at corporate office to gather data from all branches into a single place.  This improved data management operations.    
+·      Implemented WAN to connect all branches to the datacenter at corporate office, Riyadh.
+·      Designed scalable and easily manageable IP address scheme for all branches.
+·      Installed and configured Windows 2003 domain network at branches and corporate office. 
+·      Installed and configured McAfee ePolicy Orchestrator.
+·      Disaster Recovery planning.
+·      Established remote trouble shooting for all systems.  All computers and routers under the company network can be managed remotely from the corporate office.  This option eliminated the requirement of IT staff at remote branches. 
+·      Set up Microsoft Terminal Services to share applications. 
+·      Restructured IT purchase procedure and formulated a policy to direct all IT purchase requests for the evaluation and approval of IT department.  This helped proper distribution of resource and eliminated underutilization of system features.  This also helped in better supplier relations and gave more bargaining power.
+ 
+      RGF, Khobar, Saudi Arabia
+      Systems Analyst – March 2001 to June 2003
+ 
+As a Senior Programmer, I was responsible for development and maintenance of projects using Visual Basic, MS SQL Server, Oracle, ASP and Crystal Reports.
+ 
+Developed GUI’s for the Pre-marketing, Post-marketing, Inventory Control, Production Management, Password Management and Payroll. User forms include Customer Information, Inquiry follow-ups, Quotation Analysis, Purchase Order, Daily Work and Machine Reports etc.
+ 
+Developed various reports of varying complexity including Sorting, Grouping, On-demand sub reports, parameterized reports etc.
+ 
+Optimized queries and made necessary Stored Procedures to run Crystal Reports faster.
+Installed and configured MS SQL Server.
+ 
+Scheduled DBA jobs like Backups, Imports and Exports.
+ 
+Installed and maintained Windows 2000/XP for a production environment.
+ 
+Converted desktop MS Access applications into Intranet Applications. 
+ 
+ 
+ 
+ 
+ 
+ 
+Solid Software Solutions, Anagamaly, India
+Systems Analyst / Programmer – June 1999 to December 2000
+ 
+      Provided technical expertise to design, code, and test applications systems.  Responsibilities include front-end development of GUI portion of application and Oracle database creation and maintenance. Additionally, involved in analysis / development of business rules implementation using Stored Procedures and Triggers.  Created complex reporting applications using Crystal Report.
+ 
+ 
+Petron Engineering Construction Ltd, Bombay, India
+Programmer / Systems Coordinator – May 1997 to June 1999
+ 
+Created a reporting application using VB, Oracle and Crystal Report to provide user up-to-date information about maintenance activities, manpower activities, equipment status and inventory.  Responsibilities include gathering user requirements, analyzing and developing the solution.
+ 
+Educational Qualifications:
+ 
+· MBA in IT management (A Grade) from Sikkim Manipal University, India.
+ 
+· Three Year Diploma from Govt. Polytechnic Kannur, India   
+ 
+·  Diploma in Computer Applications (Java2.0 and VB6.0).
+ 
+Personal Details:
+ 
+Date of Birth                          : 30/05/1976
+Nationality                             : Indian
+Religion                                  : Christian
+Marital Status                       : Married
+Passport No.                          : A8669256
+Date of Expiry                       : 27/02/2010
+Email                                      : rajesh.joy@gmail.com
+ 
+ 
+Reference: Available upon request.
