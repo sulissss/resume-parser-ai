@@ -81,4 +81,5 @@ response = client.chat.completions.create(
     response_model=CV
 )
 
+# print(response)
 print(response.model_dump_json(indent=2))
