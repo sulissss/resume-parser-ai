@@ -2,6 +2,7 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 from enum import Enum
 
+
 # 1. Personal Information
 class PersonalInformation(BaseModel):
     """Represents the personal details of an individual."""

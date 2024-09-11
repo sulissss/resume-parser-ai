@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 from typing import List, Dict
 from enum import Enum
 import instructor
-from cv_model import CV
+from cv_model import CV, PersonalInformation
 import json
 
 
@@ -28,7 +28,7 @@ with open('examples/resume2.txt', 'r') as file:
 few_shot_prompts = [
     {
         "role": "system",
-        "content": """You are a Job Resume Parser. You are to analyze the contents of the following resume and provide its relevant data accordingly as a JSON object. The current/present year is 2024. You will be provided with a sample input and output.""" 
+        "content": "You are a Job Resume Parser. You are to analyze the contents of the following resume and provide its relevant data accordingly as a JSON object. The current/present year is 2024. You will be provided with a sample input and output." 
     },
     # {"role": "user", "content": sample_input},
     # {"role": "assistant", "content": sample_outputs},
@@ -47,7 +47,7 @@ response = client.chat.completions.create(
     model="llama3",
     max_retries=3,
     messages=few_shot_prompts,
-    response_model=CV
+    response_model=PersonalInformation
 )
 
 # # # Parse the response and calculate the resume score
