@@ -48,26 +48,26 @@ Work Experience:
 
 
 few_shot_prompts = [ 
-    # {
-    #     "role": "system", 
-    #     "content": "Analyze the resume content, and provide its relevant data accordingly. The current/present year is 2024."
-    # },
-    # {
-    #     "role": "user",
-    #     "content": "John Doe\nEmail: john.doe@outlook.com\nPhone: 123-456-7890\n\nSKILLS Python, JavaScript, and SQL.\n\nExperience:\n- Software Engineer at TechCorp - 2012-17\n- Senior Developer at WebWorks 2017-Present"
-    # },
-    # {
-    #     "role": "assistant",
-    #     "content": '{"NAME": "John Doe", "EMAIL_ID": "john.doe@outlook.com", "PHONE_NUMBER": "123-456-7890", "JOB_EXPERIENCE": [{"PROFESSION": "software_developer", "COMPANY": "TechCorp", "EXPERIENCE": 5.0}, {"PROFESSION": "senior_developer", "COMPANY": "WebWorks", "EXPERIENCE": 7.0}], "SKILLS": ["Python", "JavaScript", "SQL"]}'
-    # },
-    # {
-    #     "role": "user",
-    #     "content": "Jane Smith\nContact: jane.smith@gmail.com | 987-654-3210\nHave experience in Cloud Computing AWS Azure\n- Data Scientist at DataInsights 06/2010-12/2011\n Software Engineer @ Microsoft 08/2012-08/2023"
-    # },
-    # {
-    #     "role": "assistant",
-    #     "content": '{"NAME": "Jane Smith", "EMAIL_ID": "jane.smith@gmail.com", "PHONE_NUMBER": "987-654-3210", "JOB_EXPERIENCE": [{"PROFESSION": "software_engineer", "COMPANY": "DataInsights", "experience": 1.5}, {"PROFESSION": "software_developer": "experience": 3.0}], "SKILLS": ["Cloud", "Computing", "AWS", "Azure"]'
-    # },
+    {
+        "role": "system", 
+        "content": "Analyze the resume content, and provide its relevant data accordingly. The current/present year is 2024."
+    },
+    {
+        "role": "user",
+        "content": "John Doe\nEmail: john.doe@outlook.com\nPhone: 123-456-7890\n\nSKILLS Python, JavaScript, and SQL.\n\nExperience:\n- Software Engineer at TechCorp - 2012-17\n- Senior Developer at WebWorks 2017-Present"
+    },
+    {
+        "role": "assistant",
+        "content": '{"NAME": "John Doe", "EMAIL_ID": "john.doe@outlook.com", "PHONE_NUMBER": "123-456-7890", "JOB_EXPERIENCE": [{"PROFESSION": "software_developer", "COMPANY": "TechCorp", "EXPERIENCE": 5.0}, {"PROFESSION": "senior_developer", "COMPANY": "WebWorks", "EXPERIENCE": 7.0}], "SKILLS": ["Python", "JavaScript", "SQL"]}'
+    },
+    {
+        "role": "user",
+        "content": "Jane Smith\nContact: jane.smith@gmail.com | 987-654-3210\nHave experience in Cloud Computing AWS Azure\n- Data Scientist at DataInsights 06/2010-12/2011\n Software Engineer @ Microsoft 08/2012-08/2023"
+    },
+    {
+        "role": "assistant",
+        "content": '{"NAME": "Jane Smith", "EMAIL_ID": "jane.smith@gmail.com", "PHONE_NUMBER": "987-654-3210", "JOB_EXPERIENCE": [{"PROFESSION": "software_engineer", "COMPANY": "DataInsights", "experience": 1.5}, {"PROFESSION": "software_developer": "experience": 3.0}], "SKILLS": ["Cloud", "Computing", "AWS", "Azure"]'
+    },
     {
         "role": "user",
         "content": sample_input
@@ -78,7 +78,7 @@ response = client.chat.completions.create(
     model="llama3",
     max_retries=3,
     messages=few_shot_prompts,
-    response_model=CV
+    response_model=Resume
 )
 
 # print(response)

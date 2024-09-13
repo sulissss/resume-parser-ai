@@ -5,22 +5,22 @@
       "last_name": "Joy",
       "full_name": "Rajesh Joy",
       "date_of_birth": "1976-05-30",
-      "gender": "None",
+      "gender": "",
       "nationality": "Indian",
       "phone_number": "00966 502827500",
       "email_address": "rajeshjoyp@gmail.com",
-      "address": "None",
+      "address": "",
       "city": "Riyadh",
-      "state": "None",
+      "state": "",
       "country": "Saudi Arabia",
-      "linkedin_profile": "None",
-      "website_url": "None",
-      "photo": "None"
+      "linkedin_profile": "",
+      "website_url": "",
+      "photo": ""
     },
     "objective_summary": {
-      "objective": "None",
+      "objective": "",
       "career_summary": "13 years of experience in the field of Information Technology. Last 7 years in IT management. Experience in formulating IT policies, controlling IT purchases & projects, IT auditing and documentation, evaluating and selecting right technologies and partners, managing security and access-control.",
-      "personal_statement": "None"
+      "personal_statement": ""
     },
     "professional_experience": {
       "work_experience": [
@@ -28,7 +28,7 @@
           "company_name": "RGF",
           "job_title": "Corporate IT In-Charge",
           "start_date": "2003-06",
-          "end_date": "None",
+          "end_date": "",
           "job_location": "Riyadh, Saudi Arabia",
           "job_description": [
             "Develop and enforce necessary IT policies.",
@@ -93,29 +93,29 @@
         {
           "degree": "MBA in IT Management",
           "institution": "Sikkim Manipal University",
-          "start_date": "None",
-          "end_date": "None",
+          "start_date": "",
+          "end_date": "",
           "major": "IT Management",
-          "gpa": "None",
+          "gpa": "",
           "location": "India"
         },
         {
           "degree": "Diploma in Computer Applications",
           "institution": "Govt. Polytechnic Kannur",
-          "start_date": "None",
-          "end_date": "None",
-          "major": "None",
-          "gpa": "None",
+          "start_date": "",
+          "end_date": "",
+          "major": "",
+          "gpa": "",
           "location": "India"
         },
         {
           "degree": "Diploma in Computer Applications (Java 2.0 and VB6.0)",
-          "institution": "None",
-          "start_date": "None",
-          "end_date": "None",
-          "major": "None",
-          "gpa": "None",
-          "location": "None"
+          "institution": "",
+          "start_date": "",
+          "end_date": "",
+          "major": "",
+          "gpa": "",
+          "location": ""
         }
       ]
     },
@@ -139,7 +139,7 @@
         "Problem solving",
         "Interpersonal skills"
       ],
-      "languages": ["None"]
+      "languages": [""]
     },
     "certifications_and_courses": {
       "certifications": [],
@@ -159,16 +159,16 @@
       "volunteer_experience": []
     },
     "hobbies_and_interests": {
-      "hobbies": ["None"],
-      "interests": ["None"]
+      "hobbies": [""],
+      "interests": [""]
     },
     "references": {
       "references": []
     },
     "additional_information": {
-      "driver_license": "None",
-      "availability": "None",
-      "willingness_to_relocate": "None",
-      "expected_salary": "None"
+      "driver_license": "",
+      "availability": "",
+      "willingness_to_relocate": "",
+      "expected_salary": ""
     }
   }

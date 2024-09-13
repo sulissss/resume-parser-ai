@@ -18,7 +18,7 @@ client = instructor.from_openai(
 with open('examples/resume1.txt', 'r') as file:
     sample_input = file.read()
 
-with open('sample_outputs.json', 'r') as file:
+with open('sample_outputs.txt', 'r') as file:
     sample_outputs = file.read()
 
 with open('examples/resume2.txt', 'r') as file:
@@ -32,22 +32,14 @@ few_shot_prompts = [
     },
     # {"role": "user", "content": sample_input},
     # {"role": "assistant", "content": sample_outputs},
-    {"role": "user", "content": """Alice Johnson
-Email: alice.johnson@company.com
-Phone: 555-123-4567
-
-Experienced Data Engineer with over 4 years in the industry. Expertise in ETL processes, data warehousing, and cloud platforms like AWS.
-
-Work Experience:
-- Data Engineer at BigData Inc. 2012-2014
-- ETL Developer at DataWorks. 2015-2020"""},
+    {"role": "user", "content": resume2},
 ]
 
 response = client.chat.completions.create(
     model="llama3",
     max_retries=3,
     messages=few_shot_prompts,
-    response_model=PersonalInformation
+    response_model=CV
 )
 
 # # # Parse the response and calculate the resume score
@@ -56,4 +48,4 @@ response = client.chat.completions.create(
 
 # # print(f"Resume Score: {resume_score}%")
 
-print(response)
+print(response.model_dump_json(indent=2))

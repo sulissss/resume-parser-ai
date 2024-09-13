@@ -1,0 +1,38 @@
+{
+    "full_name": "Rajesh Joy",
+    "email_address": "rajeshjoyp@gmail.com",
+    "github_portfolio": null,
+    "linkedin_id": null,
+    "employment_details": [
+      "Corporate IT In-Charge at RGF, Riyadh, Saudi Arabia (June 2003 - Present):\n- Accompanied company during growth phase with IT infrastructure support.\n- Developed and enforced IT policies, managed and optimized user privileges.\n- Evaluated, selected, and implemented ERP systems, developed centralized datacenter, connected branches via WAN.\n- Installed and configured Windows 2003 domain network and McAfee ePolicy Orchestrator.",
+      "Systems Analyst at RGF, Khobar, Saudi Arabia (March 2001 - June 2003):\n- Developed and maintained projects using Visual Basic, MS SQL Server, Oracle, ASP, and Crystal Reports.",
+      "Systems Analyst / Programmer at Solid Software Solutions, Anagamaly, India (June 1999 - December 2000):\n- Designed, coded, and tested applications, including front-end development and Oracle database creation.",
+      "Programmer / Systems Coordinator at Petron Engineering Construction Ltd, Bombay, India (May 1997 - June 1999):\n- Developed reporting applications using VB, Oracle, and Crystal Report."
+    ],
+    "technical_skills": [
+      "Design and implementation of wide area networks",
+      "Security Design and Access Control",
+      "Microsoft Terminal Server environments",
+      "Network architecture design and implementation",
+      "Windows Server 2000/2003",
+      "Active Directory and GPO",
+      "Proxy Servers - ISA Server",
+      "ORACLE",
+      "Visual Basic",
+      "MS SQL Server",
+      "Crystal Reports 9.0",
+      "Oracle Reports 6i",
+      "Antivirus - McAfee Total Protection for End Point",
+      "ePO administration"
+    ],
+    "soft_skills": [
+      "Team player",
+      "Excellent communication",
+      "Problem-solving",
+      "Analytical skills",
+      "Leadership",
+      "Technical writing",
+      "Training junior staff",
+      "Documentation"
+    ]
+}
