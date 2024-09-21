@@ -1,29 +1,174 @@
-PRAKASH DHARMANI
  
  
-Communication Address:
-301A, Jimmy Park I CHS, Plot 182D, Sector 17,  
-Nerul, Navi Mumbai, Maharashtra.
-India   Pin: 400706
-Ph: (Res.) +91 22 32504708, (Mobile) +91 9819731191
-Email : prakash_dharmani@yahoo.com
- 
- 
-BRIEF OVERVIEW
 
-A Chemical engineer with Management background (done Executive MBA) and a IT Professional having over 18 years of  Cross Functional (Engineering, Manufacturing, Project Execution, System Development and Implementation) & Cross Industry (Petrochemical, Petroleum, Power, Steel & 3PL Logistics)  back ground in a diversified Reliance & Essar group.
+PERSONAL DETAILS
  
-Industry Exposure	Petrochemicals, Refinery , Power, Steel, Logistics and Pharmaceutical
-Core Areas of Expertise	IT Dept Set Up, Program Management, New Start Ups, Business Process (Definition, Mapping, & Re-engineering/Migration) with exposure to world renowned PwC methodology, SAP Implementation & Logistics Management Software Development & Implementation.
-Strength includes good Analytical, Presentation and Leadership skills.
-Jobs Handled:	     As CIO of startup Engineering Company played a strategic role in technology selection, SLA definition, IT dept setup etc.
-     Played Change agent role in implementation of mission critical business applications
-     Innovated processes to gain competitive advantage.
-     Played a key role in the implementation of LES & FICO modules of SAP for Logistics division, development of Transport Management Software & Customer Complaints System.
-     Requirement Analysis & Definition (Business Analysis, & Feasibility Study, Converting Business / System requirements to Design, Estimation & Sizing)
-     Reviews (Functional / System / Test Review)
-     Project Delivery Management (Project Planning & Scoping, Process Definition & Engineering, Risk Management, proposal / Vetting of Proposals, Tools Evaluation, P&L Responsibility)
-     Customer Management (Customer Interface )
-     Technology Management (Scanning, acquiring and selecting relevant technologies )
-     ISO Implementation
-     Petrochemical Industry Operations & Monitoring.
+ 
+
+Name	Walid Elfatih Eltigani Ali.
+Date Of Birth	2nd of July 1976.
+Place Of Birth	Khartoum, Sudan.
+Nationality	Sudanese.
+Gender	Male.
+Language	Arabic (Mother tongue), English.
+Marital Status	Single.
+Mobile-no	UAE : +971 50 3060462.
+E-mail	w_elfatih@hotmail.com , walid@kcrecsh.ae
+
+Valid Sudanese and UAE Driving license.
+ 
+
+
+EDUCATION & QUALIFICATIONS
+ 
+ 
+
+1996– 2001	September 2001      OMDURMAN AHLIA UNIVERSITY                       Khartoum, Sudan
+Bachelors  - Computer Sciences
+2001	Training course -Programming with Visual Studio 6 (Visual Basic).
+25/03/2005 to 10/04/2005	Training course – Orion Advantage Business Solution – UAE – Dubai
+3i InfoTech Company – Dubai – Internet City
+	
+	
+
+SUMMARY OF QUALIFICATIONS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+PRESENET EXPERIENCE
+ 
+ 
+
+2001  –  11/2006	Job Description:  ERP Project  Co-ordinator & Software Engineer.
+Company name:
+ Systems Technology Co. Ltd.
+Responsibilities:
+ 
+ERP Project :
+ 
+·      Business Process Study - Study of the Business Systems of Sales, Purchases, Inventory, Finance, Receivables and Payables.
+·      System Set up - Hardware and Software configuration.
+·      Wings ERP Setup - Modules, Masters, Transactions, Reports, Users.  Configuration of Transactions and Reports.
+·      Implementation - Data Migration from the old system. Data entry.
+·      Training the employees of Systems Technology on Wings ERP.Responsible for the Data Maintenance and rebuilding of the Company.
+ 
+Wings Pro. Project:
+ 
+System & Database  Administrator for the project:
+ 
+·      To do the following up of the system starting with the installation till the year end process.
+·      To handle the training of the clients in the handling of the system as well as its usage.
+·      To be the link between the client & system producing co. (Wings Infonet Ltd. - India).
+·      Responsible for the Data Maintenance and rebuilding of the company.
+Orion Advantage Implementation:
+ 
+        Database Administrator:
+·      Implementation for Orion advantage using implementation methodology (Questionnaire, Analysis, Installation, Set-up & Settings, Troubleshooting, communicate with Supply Team (3i InfoTech – Dubai)).
+·      Users Training.
+·      Users Troubleshooting.
+ 
+11/2006  –  Present	Job Description:   I.T Manager
+Company name:
+ Kuwaiti Commercial Real Estate Centre – Sharjah - UAE
+Responsibilities:
+ 
+·      Deploying and managing Information Technology assets and investments to achieving the K.C.R.E.C success in its Missions & Goals.
+·      Application Manager for Management Information System (MIS), which consist of the following Modules:
+1-    General Ledger: Main files, Cost Centers, Activities, Chart of accounts and Currencies.
+- Transactions: Journal Voucher, Receipt and   Payment Vouchers, Real Estate Voucher and Returned PDC.
+- Daily Operation: Confirm, unconfirmed and post, un post Transactions.
+- Inquiry for Accounts statements.
+- GL Reports.
+- End of Year Process.
+2- Real Estate Management System (REMS):
+- Tenants Details.
+- Property Details.
+- Unit Details.
+- Rent Contract.
+- Generate Rent Demand.
+- Tenants Payments: GL Interface with REMS in order to create automatic vouchers on GL Module; e.g.: Rent Demands and Tenants Payment.
+- Tenants Inquiry.
+- Reports.
+3- Fixed Assets.
+4- Security Modules.
+·      Design and Develop Other Modules and Solutions integrated to MIS to accomplish a one business solution, using Oracle 8i. e.g.: Document Archive, Stock control, Bank Loans and others.
+·      Install and Administration for Avaya Telephone System (Site Administration).
+·      Managing and configuring Loop and Panel Readers system (Honeywell Access Systems. - Win-Pak and Access Cards).
+·      Asst. Administration of Management Information System (General Ledger, Real Estate Management System).
+·      Create and Design Analysis Reports.
+·      Troubleshoot database entries.
+
+SKILLS
+ 
+ 
+ 
+ 
+S.1	·      Software Engineering and Systems Analysis and Design.
+·      Visual Studio 6 (Visual Basic 6 ).
+·      Crystal reports.
+·      SQL Server.
+·      Oracle Developer 2000  Rel 5,6,6i.
+·      PL/SQL, Stored procedures, packages and triggers.
+·      Operating Systems: Windows NT, Windows 2000, Windows 95/98/ME,XP, DOS.
+·      Programming languages: C ++ , Pascal , Cobol.
+·      MS office XP (Word , Excel , Power Point , Access ).
+·      Managing and developing networks infrastructure
+·      Virus detection and removal using Symantec products
+·      Verbal and written communication skills
+·      Strong writing and documentation skills
+Excellent leadership skills and team management capabilities
+S.2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S.3	Design and Developing of Financial &  Integrated Software's Using Oracle Products:
+ 
+·      Business Process Study - Study of the Business Systems of Sales, Purchases, Finance, Document Cycle, Receivables and Payables as well as the Creditor & Debtor Accounts.
+·      Designing of all the forms and invoices for the software using visual basic 6, MC Office as Database.
+·      Connection to the Database done through ODBC.
+·      The implementation of the designs & the business study.
+·      Training of the staff on the usage of the software.
+·      Maintenance of the Database.
+Development & update of the system.
+	Oracle Database Installation & Implementation:
+·      Install all Oracle database versions (7, 8i, 9i and 10g) using Oracle Universal Installer.
+·      Create, Delete and Configure oracle database (Custom Database, Data warehouse and General Purpose) during database installation or using Database Configuration Assistant – DBCA.
+·      Managing Tablespaces.
+·      Create users schema, privileges and authorization.
+·      Creating database storage and schema objects.
+·      Managing Parameter initialization file.
+·      Managing data with SQL, PL/SQL.
+·      Managing Oracle Listeners.
+ 
+                                                                                                                     
+ 
+	·      Client-side Names Resolution options.
+·      Managing Import and Export commands.
+·      Proactive Database Maintenance and Performance Monitoring
+·      Implementing Database Recovery.
+ 

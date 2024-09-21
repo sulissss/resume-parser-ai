@@ -125,7 +125,7 @@ Programmer / Systems Coordinator – May 1997 to June 1999
 Created a reporting application using VB, Oracle and Crystal Report to provide user up-to-date information about maintenance activities, manpower activities, equipment status and inventory.  Responsibilities include gathering user requirements, analyzing and developing the solution.
  
 Educational Qualifications:
- 
+
 · MBA in IT management (A Grade) from Sikkim Manipal University, India.
  
 · Three Year Diploma from Govt. Polytechnic Kannur, India   

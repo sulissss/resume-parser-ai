@@ -1,6 +1,6 @@
 
-    {
-    "personal_information": {
+    {{
+    "personal_information": {{
       "first_name": "Rajesh",
       "last_name": "Joy",
       "full_name": "Rajesh Joy",
@@ -16,15 +16,15 @@
       "linkedin_profile": "",
       "website_url": "",
       "photo": ""
-    },
-    "objective_summary": {
+    }},
+    "objective_summary": {{
       "objective": "",
       "career_summary": "13 years of experience in the field of Information Technology. Last 7 years in IT management. Experience in formulating IT policies, controlling IT purchases & projects, IT auditing and documentation, evaluating and selecting right technologies and partners, managing security and access-control.",
       "personal_statement": ""
-    },
-    "professional_experience": {
+    }},
+    "professional_experience": {{
       "work_experience": [
-        {
+        {{
           "company_name": "RGF",
           "job_title": "Corporate IT In-Charge",
           "start_date": "2003-06",
@@ -45,8 +45,8 @@
             "Installed and configured Windows 2003 domain network.",
             "Restructured IT purchase procedure and formulated a policy."
           ]
-        },
-        {
+        }},
+        {{
           "company_name": "RGF",
           "job_title": "Systems Analyst",
           "start_date": "2001-03",
@@ -59,8 +59,8 @@
             "Installed and maintained Windows 2000/XP for a production environment."
           ],
           "achievements": []
-        },
-        {
+        }},
+        {{
           "company_name": "Solid Software Solutions",
           "job_title": "Systems Analyst / Programmer",
           "start_date": "1999-06",
@@ -73,8 +73,8 @@
             "Created complex reporting applications using Crystal Reports."
           ],
           "achievements": []
-        },
-        {
+        }},
+        {{
           "company_name": "Petron Engineering Construction Ltd",
           "job_title": "Programmer / Systems Coordinator",
           "start_date": "1997-05",
@@ -85,12 +85,12 @@
             "Responsibilities include gathering user requirements, analyzing and developing the solution."
           ],
           "achievements": []
-        }
+        }}
       ]
-    },
-    "education": {
+    }},
+    "education": {{
       "education": [
-        {
+        {{
           "degree": "MBA in IT Management",
           "institution": "Sikkim Manipal University",
           "start_date": "",
@@ -98,8 +98,8 @@
           "major": "IT Management",
           "gpa": "",
           "location": "India"
-        },
-        {
+        }},
+        {{
           "degree": "Diploma in Computer Applications",
           "institution": "Govt. Polytechnic Kannur",
           "start_date": "",
@@ -107,8 +107,8 @@
           "major": "",
           "gpa": "",
           "location": "India"
-        },
-        {
+        }},
+        {{
           "degree": "Diploma in Computer Applications (Java 2.0 and VB6.0)",
           "institution": "",
           "start_date": "",
@@ -116,10 +116,10 @@
           "major": "",
           "gpa": "",
           "location": ""
-        }
+        }}
       ]
-    },
-    "skills": {
+    }},
+    "skills": {{
       "technical_skills": [
         "Design and implementation of wide area networks",
         "Security Design and Access Control",
@@ -140,35 +140,35 @@
         "Interpersonal skills"
       ],
       "languages": [""]
-    },
-    "certifications_and_courses": {
+    }},
+    "certifications_and_courses": {{
       "certifications": [],
       "courses": []
-    },
-    "projects": {
+    }},
+    "projects": {{
       "projects": []
-    },
-    "awards_and_achievements": {
+    }},
+    "awards_and_achievements": {{
       "awards_and_achievements": []
-    },
-    "publications_and_research": {
+    }},
+    "publications_and_research": {{
       "publications": [],
       "research": []
-    },
-    "volunteering": {
+    }},
+    "volunteering": {{
       "volunteer_experience": []
-    },
-    "hobbies_and_interests": {
+    }},
+    "hobbies_and_interests": {{
       "hobbies": [""],
       "interests": [""]
-    },
-    "references": {
+    }},
+    "references": {{
       "references": []
-    },
-    "additional_information": {
+    }},
+    "additional_information": {{
       "driver_license": "",
       "availability": "",
       "willingness_to_relocate": "",
       "expected_salary": ""
-    }
-  }
+    }}
+  }}
